@@ -80,7 +80,7 @@ General notes:
     - they scale with lvl, don't open till endgame
 2. Save blue and purple ciphers till Area 2 (Vera) opens up as it has better rewards
 3. Only do spend gold cipher for world boss for matricies you want (check map for boss drop)
-    - you can still kill other bosses for achievements or tasks, but don't open the chest
+    - you can still kill other bosses for achievements or tasks, but make sure to FORCE open the chest so you don't use the gold cipher
 2. when nearby unlock:
     - spacerifts
     - onmium towers
