@@ -9,7 +9,7 @@
 
 ## Overview
 
-The optimal way to progress in this game is to select the 3 SSR characters you want to play, find the best SSR matricies for those characters (4 each), and hoard all your resources for leveling up your 3 characters and 12 matrices. This guide will help you choose your characters + matricies and provide time-optimal methods to get resources for making them more powerful.
+The optimal way to progress in this game is to choose the 3 SSR characters you want to play, research the best SSR matricies for those characters (4 each), hoard all your resources for leveling up your 3 characters and 12 matrices, gacha pull untill you have your ideal setup. This guide will help you choose your characters + matricies and provide time-optimal methods to get pulls and resources for making them more powerful.
 
 ## Getting Started
 
