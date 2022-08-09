@@ -2,7 +2,7 @@
 
   * [Overview](#overview)
   * [Getting started](#getting-started)
-    + [Picking a Character/Weapon](#picking-a-character-weapon)
+    + Picking a Character/Weapon
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
