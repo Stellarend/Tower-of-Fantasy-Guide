@@ -24,7 +24,7 @@ The optimal way to progress in this game is to select the 3 SSR characters (aka 
 
 1. Resonance
 
-    Choosing a different combination of character types will result bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
+    Choosing a combination of character types will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
 
     ![image](https://user-images.githubusercontent.com/19635286/183746466-0ee5d3b3-bef4-42ce-bede-3cb684548311.png)
 
