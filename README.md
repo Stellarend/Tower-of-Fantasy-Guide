@@ -17,19 +17,19 @@ The optimal way to progress in this game is to choose the 3 SSR characters you w
 
 Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as characters.
 
-| Weapon | Class | Element | Type |
-|:---:|:---:|:---:|:---:|
-| Red Lotus Blade | Attack | Physical | Sword |
-| Ring of the SeaBlade | Attack | Physical | Chakram |
-| Blazing Revolver | Attack | Fire | Gun (Shotgun) |
-| Black Crow Scythe | Attack | Fire | Scythe |
-| Ice-Wind Arrow | Attack | Ice | Bow |
-| Lightning Blades | Attack | Lightning | Dagger |
-| Super Electromagnetic Double Star | Attack | Lightning | Gun (Dual Pistols) |
-| Rosy Edge | Defense | Ice | Greatsword |
-| Melt-Down Shield V2 | Defense | Fire | Sheild/Axe |
-| Absolute Zero Scepter | Support | Ice | Scepter |
-| Veto Cube | Support | Fire | Cube |
+| Simulacrum | Weapon | Class | Element | Type |
+|:---:|---|---|---|---|
+| Claudia | Red Lotus Blade | Attack | Physical | Sword |
+| Shiro | Ring of the SeaBlade | Attack | Physical | Chakram |
+| Cobalt-B | Blazing Revolver | Attack | Fire | Gun (Shotgun) |
+| King | Black Crow Scythe | Attack | Fire | Scythe |
+| Tsubasa (Hane) | Ice-Wind Arrow | Attack | Ice | Bow |
+| Crow (Karasuma) | Lightning Blades | Attack | Lightning | Dagger |
+| Samir (Semir) | Super Electromagnetic Double Star | Attack | Lightning | Gun (Dual Pistols) |
+| Meryl | Rosy Edge | Defense | Ice | Greatsword |
+| Huma (Schumer) | Melt-Down Shield V2 | Defense | Fire | Sheild/Axe |
+| Cocoritter | Absolute Zero Scepter | Support | Ice | Scepter |
+| Zero (Rei) | Veto Cube | Support | Fire | Cube |
 
 When choosing a character, there are a few things you should take into account:
 
