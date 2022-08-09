@@ -9,13 +9,13 @@
 
 ## Overview
 
-The optimal way to progress in this game is to choose the 3 SSR characters you want to play, research the best SSR matricies for those characters (4 each), hoard all your resources for leveling up your 3 characters and 12 matrices, gacha pull untill you have your ideal setup. This guide will help you choose your characters + matricies and provide time-optimal methods to get pulls and resources for making them more powerful.
+The optimal way to progress in this game is to choose the 3 SSR weaponss you want to use, research the best SSR matricies for those weapons (4 each), hoard all your resources for leveling up your 3 weapons and 12 matrices, gacha pull untill you have your ideal setup. This guide will help you choose your weapons + matricies and provide time-optimal methods to get pulls and resources for making them more powerful.
 
 ## Getting Started
 
 ### Choosing a Simulacrum/Character/Weapon
 
-Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as characters.
+Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as weapons.
 
 | Simulacrum | Weapon | Class | Element | Type |
 |:---:|:---:|:---:|:---:|:---:|
@@ -31,11 +31,11 @@ Simulacrums, characters, and weapons are the same thing, so for the purpose of t
 | Cocoritter | Absolute Zero Scepter | Support | Ice | Scepter |
 | Zero (Rei) | Veto Cube | Support | Fire | Cube |
 
-When choosing a character, there are a few things you should take into account:
+When choosing a weapon, there are a few things you should take into account:
 
 1. Enjoyment
 
-    If you don't enjoy your characters then you'll never want to play, so you'll never make progress. The most important thing is that you enjoy your character to keep you motivated to grind for progression.    
+    If you don't enjoy your weapons then you'll never want to play, so you'll never make progress. The most important thing is that you enjoy your weapon to keep you motivated to grind for progression.    
 
 1. Team Requirements
 
@@ -43,7 +43,7 @@ When choosing a character, there are a few things you should take into account:
 
 1. Resonance
 
-    Characters are catagorized into 3 roles; tank, support, and attack. Choosing a combination of character these roles will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
+    Weapons are catagorized into 3 classes; tank, support, and attack. Choosing a combination these classes will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
 
     ![image](https://user-images.githubusercontent.com/19635286/183746466-0ee5d3b3-bef4-42ce-bede-3cb684548311.png)
 
@@ -53,7 +53,7 @@ When choosing a character, there are a few things you should take into account:
 
 1. Tier List (PvP vs PvE)
 
-    ToF is not a perfectly balanced game so some characters are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at character tier lists which I will not cover in this guide as it will be constantly changing between patches.
+    ToF is not a perfectly balanced game so some weapons are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at weapon tier lists which I will not cover in this guide as it will be constantly changing between patches.
 
 
 
@@ -80,7 +80,7 @@ General notes:
     - black or gold spherical chests
     - they scale with lvl, don't open till endgame
 2. Save blue and purple ciphers till Area 2 (Vera) opens up as it has better rewards
-3. Only do spend gold cipher for world boss for character chips you want (check map for boss drop)
+3. Only do spend gold cipher for world boss for matricies you want (check map for boss drop)
     - you can still kill other bosses for achievements or tasks, but don't open the chest
 2. when nearby unlock:
     - spacerifts
@@ -89,9 +89,7 @@ General notes:
     - world exploration marks
 3. unlock food recipes via cooking (lookup recipes)
 4. do achievements when time restricted tasks are done
-5. use black crystals on red orbs
-    - use on limited characters if you want a specific one
-    - otherwise use all on limited weapons
+5. use black crystals on red orbs/nuclei
 6. unless it's for a daily/weekly, don't do joint operations till 06 (lvl 50), SSR gear only starts dropping then
 7. don't buy blue gear, it drops from dungeons (joint operation)
 8. hoard purple and gold orbs
@@ -114,4 +112,4 @@ General notes:
 
 1. Coco + 4x Coco Matrix
 1. Zero + 4x Coco Matrix
-1. 
+1. Samir + 4x Samir
