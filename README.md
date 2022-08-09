@@ -2,7 +2,7 @@
 
   * [Overview](#overview)
   * [Getting Started](#getting-started)
-    + Picking a Character/Weapon
+    + Choosing a Simulacrum/Character/Weapon
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -12,7 +12,11 @@ The optimal way to progress in this game is to select the 3 SSR characters (aka 
 
 ## Getting Started
 
-### Picking a Character/Weapon
+### Choosing a Simulacrum/Character/Weapon
+
+Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as characters.
+
+When choosing a character, there are a few things you should take into account:
 
 1. Enjoyment
 
