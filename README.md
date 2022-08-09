@@ -3,6 +3,7 @@
   * [Overview](#overview)
   * [Getting Started](#getting-started)
     + Choosing a Simulacrum/Character/Weapon
+  * [Day-One Guide](#day-one-guide)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
