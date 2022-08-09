@@ -1,4 +1,4 @@
-# Tower-of-Fantasy-Guide 
+# Tower of Fantasy Guide 
 
 You can use the [editor on GitHub](https://github.com/Stellarend/Tower-of-Fantasy-Guide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
