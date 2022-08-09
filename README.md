@@ -17,19 +17,19 @@ The optimal way to progress in this game is to choose the 3 SSR characters you w
 
 Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as characters.
 
-| Weapon | Type | Class | Element |
+| Weapon | Class | Element | Type |
 |:---:|:---:|:---:|:---:|
-| Blazing Revolver | Gun (Shotgun) | Attack | Fire |
-| Ice-Wind Arrow | Bow | Attack | Ice |
-| Ring of the SeaBlade | Chakram | Attack | Physical |
-| Veto Cube | Cube | Support | Fire |
-| Lightning Blades | Dagger | Attack | Lightning |
-| Rosy Edge | Greatsword | Defense | Ice |
-| Super Electromagnetic Double Star | Gun (Dual Pistols) | Attack | Lightning |
-| Absolute Zero Scepter | Scepter | Support | Ice |
-| Black Crow Scythe | Scythe | Attack | Fire |
-| Melt-Down Shield V2 | Sheild/Axe | Defense | Fire |
-| Red Lotus Blade | Sword | Attack | Physical |
+| Red Lotus Blade | Attack | Physical | Sword |
+| Ring of the SeaBlade | Attack | Physical | Chakram |
+| Blazing Revolver | Attack | Fire | Gun (Shotgun) |
+| Black Crow Scythe | Attack | Fire | Scythe |
+| Ice-Wind Arrow | Attack | Ice | Bow |
+| Lightning Blades | Attack | Lightning | Dagger |
+| Super Electromagnetic Double Star | Attack | Lightning | Gun (Dual Pistols) |
+| Rosy Edge | Defense | Ice | Greatsword |
+| Melt-Down Shield V2 | Defense | Fire | Sheild/Axe |
+| Absolute Zero Scepter | Support | Ice | Scepter |
+| Veto Cube | Support | Fire | Cube |
 
 When choosing a character, there are a few things you should take into account:
 
