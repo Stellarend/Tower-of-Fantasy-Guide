@@ -18,7 +18,7 @@ The optimal way to progress in this game is to choose the 3 SSR characters you w
 Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as characters.
 
 | Simulacrum | Weapon | Class | Element | Type |
-|:---:|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | Claudia | Red Lotus Blade | Attack | Physical | Sword |
 | Shiro | Ring of the SeaBlade | Attack | Physical | Chakram |
 | Cobalt-B | Blazing Revolver | Attack | Fire | Gun (Shotgun) |
