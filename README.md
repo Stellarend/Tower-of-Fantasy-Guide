@@ -24,13 +24,13 @@ The optimal way to progress in this game is to select the 3 SSR characters (aka 
 
 1. Resonance
 
-    Choosing a combination of character types will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
+    Characters are catagorized into 3 roles; tank, support, and DPS. Choosing a combination of character these roles will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
 
     ![image](https://user-images.githubusercontent.com/19635286/183746466-0ee5d3b3-bef4-42ce-bede-3cb684548311.png)
 
 1. Tier List (PvP vs PvE)
 
-    Unfortunately, ToF is not a perfectly balanced game, so some characters are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at character tier lists which I will not cover in this guide as it will be constantly changing between patches.
+    Unfortunately, ToF is not a perfectly balanced game so some characters are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at character tier lists which I will not cover in this guide as it will be constantly changing between patches.
 
 # TODO: other notes I've made that I need to organize into this guide
 
