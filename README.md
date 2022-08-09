@@ -24,7 +24,7 @@ When choosing a character, there are a few things you should take into account:
 
 1. Team Requirements
 
-    If you play with other people, consider chosing a role that compliments their playstyle. In most MMORPGs a team of 4 DPS might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times for harder content. Playing supports or tanks might give your party a higher chance of success.
+    If you play with other people, consider chosing a role that compliments their playstyle. In most MMORPGs a team of 4 DPS might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times in harder content. Playing supports or tanks might give your party a higher chance of success.
 
 1. Resonance
 
