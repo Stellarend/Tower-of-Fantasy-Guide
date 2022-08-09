@@ -39,11 +39,11 @@ When choosing a weapon, there are a few things you should take into account:
 
 1. Team Requirements
 
-    If you play with other people, consider chosing a class that compliments their playstyle. In most MMORPGs a team of 4 DPS might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times in harder content. Playing supports or tanks might give your party a higher chance of success.
+    If you play with other people, consider chosing weapon classes that compliment their playstyle. In most MMORPGs a team of 4 attackers might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times in harder content. Playing as a support or tank might give your party a higher chance of success.
 
 1. Resonance
 
-    Weapons are catagorized into 3 classes; tank, support, and attack. Choosing a combination these classes will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
+    Weapons are catagorized into 3 classes; tank, support, and attack. Choosing a combination these classes will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting. Choosing a neutral/balanced resonance generally has fewer bonuses.
 
     ![image](https://user-images.githubusercontent.com/19635286/183746466-0ee5d3b3-bef4-42ce-bede-3cb684548311.png)
 
@@ -54,7 +54,6 @@ When choosing a weapon, there are a few things you should take into account:
 1. Tier List (PvP vs PvE)
 
     ToF is not a perfectly balanced game so some weapons are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at weapon tier lists which I will not cover in this guide as it will be constantly changing between patches.
-
 
 
 ## Day-One Guide
