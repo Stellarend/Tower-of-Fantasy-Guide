@@ -17,6 +17,20 @@ The optimal way to progress in this game is to choose the 3 SSR characters you w
 
 Simulacrums, characters, and weapons are the same thing, so for the purpose of this guide, I will refer to them as characters.
 
+| Weapon | Type | Class | Element |
+|:---:|:---:|:---:|:---:|
+| Blazing Revolver | Gun (Shotgun) | Attack | Fire |
+| Ice-Wind Arrow | Bow | Attack | Ice |
+| Ring of the SeaBlade | Chakram | Attack | Physical |
+| Veto Cube | Cube | Support | Fire |
+| Lightning Blades | Dagger | Attack | Lightning |
+| Rosy Edge | Greatsword | Defense | Ice |
+| Super Electromagnetic Double Star | Gun (Dual Pistols) | Attack | Lightning |
+| Absolute Zero Scepter | Scepter | Support | Ice |
+| Black Crow Scythe | Scythe | Attack | Fire |
+| Melt-Down Shield V2 | Sheild/Axe | Defense | Fire |
+| Red Lotus Blade | Sword | Attack | Physical |
+
 When choosing a character, there are a few things you should take into account:
 
 1. Enjoyment
@@ -25,17 +39,23 @@ When choosing a character, there are a few things you should take into account:
 
 1. Team Requirements
 
-    If you play with other people, consider chosing a role that compliments their playstyle. In most MMORPGs a team of 4 DPS might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times in harder content. Playing supports or tanks might give your party a higher chance of success.
+    If you play with other people, consider chosing a class that compliments their playstyle. In most MMORPGs a team of 4 DPS might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times in harder content. Playing supports or tanks might give your party a higher chance of success.
 
 1. Resonance
 
-    Characters are catagorized into 3 roles; tank, support, and DPS. Choosing a combination of character these roles will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
+    Characters are catagorized into 3 roles; tank, support, and attack. Choosing a combination of character these roles will provide bonuses. This is known as Resonance and it will allow you to further specialize what kind of playstyle you want to have, especially in a team setting.
 
     ![image](https://user-images.githubusercontent.com/19635286/183746466-0ee5d3b3-bef4-42ce-bede-3cb684548311.png)
 
+1. Element
+
+    Elements provide debuffs to enemies when they are hit, however these debuffs do not stack, they only refresh. As a result, it is ideal to have a variety of elements within your party to apply as many elemental debuffs as possible
+
 1. Tier List (PvP vs PvE)
 
-    Unfortunately, ToF is not a perfectly balanced game so some characters are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at character tier lists which I will not cover in this guide as it will be constantly changing between patches.
+    ToF is not a perfectly balanced game so some characters are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at character tier lists which I will not cover in this guide as it will be constantly changing between patches.
+
+
 
 ## Day-One Guide
 
@@ -89,3 +109,9 @@ General notes:
 
 - Rate pulls: ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 - Matrix guide: https://youtu.be/7dSX0CJQfWk
+
+## Personal setup
+
+1. Coco + 4x Coco Matrix
+1. Zero + 4x Coco Matrix
+1. 
