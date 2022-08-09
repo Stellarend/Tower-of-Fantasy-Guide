@@ -1,7 +1,7 @@
 ## Table of Contents
 
   * [Overview](#overview)
-  * [Getting started](#getting-started)
+  * [Getting Started](#getting-started)
     + Picking a Character/Weapon
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -10,7 +10,7 @@
 
 The optimal way to progress in this game is to select the 3 SSR characters (aka weapons) you want to play, find the best SSR matricies (4 for each) for those characters, and hoard all your resources for leveling up your 3 characters and 12 matrices.
 
-## Getting started
+## Getting Started
 
 ### Picking a Character/Weapon
 
