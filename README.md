@@ -36,6 +36,22 @@ When choosing a character, there are a few things you should take into account:
 
     Unfortunately, ToF is not a perfectly balanced game so some characters are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at character tier lists which I will not cover in this guide as it will be constantly changing between patches.
 
+## Day-One Guide
+
+This serves as a day-one guide, but is also applicable as a checklist that you can perform every day. It should take ~2 hours to complete, but can take as few as 1 if you learn to speedrun it.
+
+1. Main story quest up to the limit, indicated by the yellow exclamation mark
+1. Side quests on the way
+1. Level 15
+1. Daily bounties
+1. Ruins
+1. Force open repeatable chests (pyramid and rectangular chests), don't spend ciphers
+1. Level 18 (level cap)
+1. Ability training
+1. Weeklies
+1. Black market / Hopkin's secret box
+1. Cetus island arcade claw fox
+
 # TODO: other notes I've made that I need to organize into this guide
 
 General notes:
@@ -69,19 +85,6 @@ General notes:
     - healing
 13. Do NOT use red orbs unless you have 120 saved up. This is so you can use the red tokens to guarantee buy something. If you don't get 120 tokens and buy a weapon, they eventually turn into gold tokens.
 14. Upgrade Mind matrix first because it grants crit which is the best stat
-
-Time restricted tasks:
-1. MSQ up to limit, indicated by the yellow exclamation mark
-2. side quest
-3. lvl 15
-4. daily bounties
-5. ruins
-6. force open repeatable chests (pyramid and rectangular chests), don't spend ciphers
-7. lvl 18
-8. ability training
-9. weeklies
-10. black market / hopkins secret box
-11. CETUS arcade claw fox
 
 - Rate pulls: ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 - Matrix guide: https://youtu.be/7dSX0CJQfWk
