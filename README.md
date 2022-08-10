@@ -5,6 +5,9 @@
     + Choosing a Simulacrum/Character/Weapon
     + Day-One Guide
   * [Optimal Resource Usage](#optimal-resource-usage)
+  * [Equipment / Armor](#equipment---armor)
+  * [Relics](#relics)
+  * [Cooking](#cooking)
 
 ## Overview
 
@@ -16,6 +19,7 @@ Other resources:
 - Database: [https://toweroffantasy.info](https://toweroffantasy.info)
 - Wiki: [https://toweroffantasy.fandom.com](https://toweroffantasy.fandom.com)
 - Subreddit: [https://www.reddit.com/r/TowerofFantasy/](https://www.reddit.com/r/TowerofFantasy/)
+- Discord: [https://discord.com/invite/toweroffantasy](https://discord.com/invite/toweroffantasy)
 
 ## Getting Started
 
@@ -163,7 +167,7 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Overclocking Chip
     - Used to buy any limited SSR Matrix in limited banner for 80 Overclocking Chips
     - When the limited banner rotates to a new limited SSR matrix (once a week?) any unspent Overclocking Chips will be downgraded to Base Chips
-        - This is why you should only use Spcial Voucher in batches of 80
+        - This is why you should only use Special Vouchers in batches of 80
 - Ability Training Points
     - Used to buy gifts from the training point shop
     - Buy Special Gifts that you can give to your weapons to unlock bonus traits
@@ -175,24 +179,44 @@ Pull rates:
 
 Tower of Fantasy Currency Guide for Genshin Players: [https://youtu.be/ss0lsfovfEs](https://youtu.be/ss0lsfovfEs)
 
+## Equipment / Armor
+
+TODO: improve this section
+
+- Do NOT ADVANCE individual equipment pieces unless its SSR
+- You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
+- Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
+- If gear upgrade materials are limited in shop, buy it whenever it refreshes
+- Don't buy blue gear, it drops from many places
+
+## Relics
+
+Relics are usually granted by completing a ruin for the first time. They are tools that have many uses like providing mobility, dealing damage, unlocking puzzles. It's recommended that you make a Relic set so its easy to switch between them using a hotkey (default `G`) which will let you move around more easily while traveling and add some damage to your combos while in combat.
+
+## Cooking
+
+Early on, it's important to prioritize unlocking all the recipes rather than making the most efficient food. This is because unlocking a recipes usually grants an achievement which rewards you with a Black Nucleus.
+
+Some foods grant different bonuses like resistance to a specific element, while others grant increase stamina. Many of the most efficient recipes use honey, so it's important to destroy any hives you see and pickup the honey.
+
+Here's a few recipes lists (TODO copy all of these recipes into a markdown table):
+
+- [https://findurthing.com/tower-of-fantasy-cooking-recipe](https://findurthing.com/tower-of-fantasy-cooking-recipe)
+- [https://www.pockettactics.com/tower-of-fantasy/tower-of-fantasy-cooking](https://www.pockettactics.com/tower-of-fantasy/tower-of-fantasy-cooking)
+- [https://zilliongamer.com/tower-of-fantasy/c/guides/tower-of-fantasy-food-recipes-resource-and-effect](https://www.pockettactics.com/tower-of-fantasy/tower-of-fantasy-cooking)
+
+With the full list of foods (no recipe) available in the database: [https://toweroffantasy.info/food](https://toweroffantasy.info/food)
+
 # TODO: other notes I've made that I need to organize into this guide
 
-1. Don't ADVANCE individual gear pieces unless its SSR
-1. You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
-1. Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
-1. If gear upgrade materials are limited in shop, buy it whenever it refreshes
-1. Unlock food recipes via cooking (lookup recipes)
-1. Do achievements when time restricted tasks are done
-1. Don't buy blue gear, it drops from dungeons (joint operation)
-1. Don't waste SR (purple) materials on upgrading weapons below SSR (yellow)
-1. Upgrade weapons above all else in this order:
+- Matrix guide: [https://youtu.be/7dSX0CJQfWk](https://youtu.be/7dSX0CJQfWk)
+- Upgrade Mind matrix first because it grants crit which is the best stat
+- Don't waste SR (purple) materials on upgrading weapons below SSR (yellow)
+- Upgrade weapons above all else in this order:
     - Single target dps
     - AOE dps
     - Ranged dps
     - Healing
-1. Upgrade Mind matrix first because it grants crit which is the best stat
-
-- Matrix guide: https://youtu.be/7dSX0CJQfWk
 
 ## Personal setup
 
