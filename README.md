@@ -8,7 +8,7 @@
 
 ## Overview
 
-The optimal way to progress in this game is to choose the 2-3 SSR weapons you want to use, research the best SSR matrices for those weapons (4 each), hoard all your resources for leveling up your weapons and matrices, gacha pull until you have your ideal setup. This guide will help you choose your weapons + matrices and provide time-optimal methods to get pulls and resources for making them more powerful.
+The optimal way to progress in this game is to choose the 2-3 SSR weapons you want to use, research the best SSR matrices for those weapons (4 each), hoard all your resources for leveling up your weapons and matrices, then gacha pull until you have your ideal setup. This guide will help you choose your weapons + matrices and provide time-optimal methods to get pulls and resources for making them more powerful.
 
 Other resources:
 
