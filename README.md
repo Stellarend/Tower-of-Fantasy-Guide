@@ -134,6 +134,9 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Used to buy any limited SSR Matrix in limited banner for 80 Overclocking Chips
     - When the limited banner rotates to a new limited SSR matrix (once a week?) any unspent Overclocking Chips will be downgraded to Base Chips
         - This is why you should only use Spcial Voucher in batches of 80
+
+Pull rates:
+
 ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 
 Tower of Fantasy Currency Guide for Genshin Players: [https://youtu.be/ss0lsfovfEs](https://youtu.be/ss0lsfovfEs)
