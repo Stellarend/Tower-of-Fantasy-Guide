@@ -81,7 +81,7 @@ As a free to play, your resources are limited, so it's important you min-max the
     - The rewards scale with your level, so don't open till level 50 which is when you can get SSR gear
 - Personal Chef
     - Provides free resources every 6 hours
-    - Do not allow it to sit at 3/3
+    - Use it whenever it's available, do not allow it to cap
 - Black and Gold Nucleus (black and gold orbs)
     - Used to pull weapons from the permanent weapon banner
     - If the weapon you're looking for is not in the permanent banner (pool), save up these nuclei
