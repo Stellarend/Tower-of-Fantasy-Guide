@@ -134,14 +134,14 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Use it whenever it's available, do not allow it to cap
 - Black and Gold Nucleus (black and gold orbs)
     - Used to pull weapons from the permanent weapon banner
-    - If the weapon you're looking for is not in the permanent banner (pool), save up these nuclei
-        - Every few months, a weapon from the limited banner is moved into the permanent banner so you can wait till then
-    - Otherwise, you can spend these as soon as you get them
     - Each gold pull gives you Black Gold
+    - You can spend these as soon as you get them
+    - If the weapon you're looking for is not in the permanent banner (pool), it might be worth it to save the nuclei
+        - Every few months, a weapon from the limited banner is moved into the permanent banner so you can wait till then
 - Red Nucleus (red orb)
     - Used to pull weapons from the limited weapon banner
-    - Save and spend in batches of 120 (see Tempered Gold)
     - Each pull gives you a Tempered Gold
+    - Save and spend in batches of 120 (see Tempered Gold)
 - Black Gold (gold token)
     - Used to buy a duplicate SSR weapon for 120 Black Gold
     - This means you must already own the SSR weapon
@@ -155,13 +155,13 @@ As a free to play, your resources are limited, so it's important you min-max the
             - It's recommend you spend all your Proofs of Purchase and Special Vouchers before doing this so you can get one you don't already have
 - Proof of Purchase (gold chip)
     - Used to pull matrices from the permanent matrix banner
+    - Each pull gives you a Base Chip
     - If the matrix you're looking for is not in the permanent banner (pool), save up these Proofs of Purchase
         - Every few months, a matrix from the limited banner is moved into the permanent banner so you can wait till then
-    - Each pull gives you a Base Chip
 - Special Voucher (red chip)
     - Used to pull matrices from the limited matrix banner
-    - Save and spend in batches of 80 (Over Clocking Chip)
-    - Each pull gives you an Over Clocking Chip
+    - Each pull gives you an Overclocking Chip
+    - Save and spend in batches of 80 (Overclocking Chip)
 - Base Chip
     - Used to buy any SSR Matrix for 80 Base Chips
 - Overclocking Chip
