@@ -61,7 +61,7 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Black Crystals
     - Usable in the shop
     - Purchase Red Nucleus
-    - Once your 3 weapons are max stars, purchase Special Voucher
+    - Once your 3 weapons are max stars, purchase Special Voucher instead
 - Vitality / Energy
     - Used for Adventure Select and refreshes slowly overtime
     - Do not allow it to cap, always make sure it's under 100 at the end of a play session
