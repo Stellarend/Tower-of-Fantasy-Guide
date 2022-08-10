@@ -86,32 +86,37 @@ As a free to play, your resources are limited, so it's important you min-max the
     - If the weapon you're looking for is not in the permanent banner (pool), save up these nuclei
         - Every few months, a weapon from the limited banner is moved into the permanent banner so you can wait till then
     - Otherwise, you can spend these as soon as you get them
-    - Each gold pull gives you a Gold Token
+    - Each gold pull gives you Black Gold
 - Red Nucleus (red orb)
     - Used to pull weapons from the limited weapon banner
-    - Save and spend in batches of 120 (see Red Token)
-    - Each pull gives you a Red Token
+    - Save and spend in batches of 120 (see Tempered Gold)
+    - Each pull gives you a Tempered Gold
+- Black Gold (gold token)
+    - Used to buy a duplicate SSR weapon for 120 Black Gold
+    - This means you must already own the SSR weapon
+    - Save these for the 3 weapons you've chosen, especially the ones that are not good in their base form (0 star)
+- Tempered Gold (red token)
+    - Used to buy the limited SSR weapon in limited banner for 120 Tempered Gold
+    - When the limited banner rotates to a new limited SSR weapon (once a week?) any unspent Tempered Gold will be downgraded to Black Gold
+        - This is why you should only use Red Nucleus in batches of 120
+    - Every account can also buy 1 Matrix Box for 50 Tempered Gold
+        - This will allow you to choose any matrix
+            - It's recommend you spend all your Proofs of Purchase and Special Vouchers before doing this so you can get one you don't already have
 - Proof of Purchase (gold chip)
     - Used to pull matrices from the permanent matrix banner
     - If the matrix you're looking for is not in the permanent banner (pool), save up these Proofs of Purchase
         - Every few months, a matrix from the limited banner is moved into the permanent banner so you can wait till then
-    - Each pull gives you a Gold Token
+    - Each pull gives you a Base Chip
 - Special Voucher (red chip)
     - Used to pull matrices from the limited matrix banner
-    - Save and spend in batches of 120 (see Red Token)
-    - Each pull gives you a Red Token
-- Gold Token
-    - Used to buy a duplicate SSR weapon for 120 gold tokens
-    - This means you must already own the SSR weapon
-    - Save for the 3 weapons you've chosen, especially the ones that are not good in their base form (0 star)
-- Red Token
-    - Used to buy the limited SSR weapon in limited banner for 120 red tokens
-    - When the limited banner rotates to a new limited SSR weapon (once a week?) any unspent Red Tokens will be downgraded to Gold Tokens
-        - This is why you should only use Red Nucleus + Spcial Voucher in batches of 120
-    - Every account can also buy 1 Matrix Box for 50 Red Tokens
-        - This will allow you to choose any matrix
-            - It's recommend you spend all your Proofs of Purchase and Special Vouchers before doing this so you can get one you don't already have
-
+    - Save and spend in batches of 80 (Over Clocking Chip)
+    - Each pull gives you an Over Clocking Chip
+- Base Chip
+    - Used to buy any SSR Matrix for 80 Base Chips
+- Over Clocking Chip
+    - Used to buy any limited SSR Matrix in limited banner for 80 Over Clocking Chips
+    - When the limited banner rotates to a new limited SSR matrix (once a week?) any unspent Over Clocking Chips will be downgraded to Base Chips
+        - This is why you should only use Spcial Voucher in batches of 80
 ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 
 ## Day-One Guide
