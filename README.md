@@ -10,6 +10,13 @@
 
 The optimal way to progress in this game is to choose the 3 SSR weapons you want to use, research the best SSR matrices for those weapons (4 each), hoard all your resources for leveling up your 3 weapons and 12 matrices, gacha pull until you have your ideal setup. This guide will help you choose your weapons + matrices and provide time-optimal methods to get pulls and resources for making them more powerful.
 
+Other resources:
+
+- Map: [https://tower-of-fantasy-map.appsample.com](https://tower-of-fantasy-map.appsample.com/?map=default)
+- Database: [https://toweroffantasy.info](https://toweroffantasy.info)
+- Wiki: [https://toweroffantasy.fandom.com](https://toweroffantasy.fandom.com)
+- Subreddit: [https://www.reddit.com/r/TowerofFantasy/](https://www.reddit.com/r/TowerofFantasy/)
+
 ## Getting Started
 
 ### Choosing a Simulacrum/Character/Weapon
