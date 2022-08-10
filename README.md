@@ -71,6 +71,10 @@ When choosing a weapon, there are a few things you should take into account:
 
 As a free to play, your resources are limited, so it's important you min-max them for optimal progression. Here are the limited resources you have access to, and the best ways to use them.
 
+- Inventory Boxes
+    - This includes Elemental ore shard, Matrix, and Weapon augmentation boxes
+    - These let you choose which reward you want
+    - Do NOT open these until you need them as they will clutter your inventory, and you won't know which one to choose until you're missing resources
 - Potent Omnium Crystal
     - Used to upgrade your Suppressor
     - Upgrade your Suppressor whenever possible
