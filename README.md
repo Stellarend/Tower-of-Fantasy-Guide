@@ -150,7 +150,6 @@ This serves as a day-one guide, but is also applicable as a checklist that you c
     - AOE dps
     - ranged dps
     - healing
-1. Do NOT use red orbs unless you have 120 saved up. This is so you can use the red tokens to guarantee buy something. If you don't get 120 tokens and buy a weapon, they eventually turn into gold tokens.
 1. Upgrade Mind matrix first because it grants crit which is the best stat
 
 - Matrix guide: https://youtu.be/7dSX0CJQfWk
