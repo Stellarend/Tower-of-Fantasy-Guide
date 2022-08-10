@@ -113,9 +113,9 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Each pull gives you an Over Clocking Chip
 - Base Chip
     - Used to buy any SSR Matrix for 80 Base Chips
-- Over Clocking Chip
-    - Used to buy any limited SSR Matrix in limited banner for 80 Over Clocking Chips
-    - When the limited banner rotates to a new limited SSR matrix (once a week?) any unspent Over Clocking Chips will be downgraded to Base Chips
+- Overclocking Chip
+    - Used to buy any limited SSR Matrix in limited banner for 80 Overclocking Chips
+    - When the limited banner rotates to a new limited SSR matrix (once a week?) any unspent Overclocking Chips will be downgraded to Base Chips
         - This is why you should only use Spcial Voucher in batches of 80
 ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 
