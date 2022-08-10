@@ -3,8 +3,8 @@
   * [Overview](#overview)
   * [Getting Started](#getting-started)
     + Choosing a Simulacrum/Character/Weapon
+    + Day-One Guide
   * [Optimal Resource Usage](#optimal-resource-usage)
-  * [Day-One Guide](#day-one-guide)
 
 ## Overview
 
@@ -67,10 +67,40 @@ When choosing a weapon, there are a few things you should take into account:
 
     ToF is not a perfectly balanced game so some weapons are stronger than others, though all of them are good enough for end game content with enough resources. If you want to be the best, I suggest looking at weapon tier lists which I will not cover in this guide as it will be constantly changing between patches.
 
+### Day-One Guide
+
+This serves as a day-one guide, but is also applicable as a checklist that you can perform every day. It should take ~2 hours to complete.
+
+1. Main story quest up to the limit, indicated by the yellow exclamation mark
+1. Level 15
+1. Daily bounties
+1. Ruins
+1. Level 18 (level cap)
+1. Ability training (purchase special gift with training points)
+1. Black market / Hopkin's secret box
+1. Cetus island arcade claw fox (this is quite hard to get to, don't worry about it unless you're up for a challenge)
+
+Along the way you should also be doing the following if its nearby:
+
+- Force open repeatable chests (pyramid and rectangular chests), don't spend ciphers
+- Pickup any loot
+- Map completion:
+    - Side Quests
+    - Spacerifts
+    - Onmium Towers
+    - Scenic Points
+    - World Exploration Marks
+
 ## Optimal Resource Usage
 
 As a free to play, your resources are limited, so it's important you min-max them for optimal progression. Here are the limited resources you have access to, and the best ways to use them.
 
+- Supply Pods
+    - Black/purple or gold spherical chests that have very good rewards and XP
+    - These are one time use and do not respawn
+    - The rewards scale with your level, so don't open till level 50 which is when you can get SSR gear
+    - Once you do hit level 50, sign into [ToF map tracker](https://tower-of-fantasy-map.appsample.com) to track which supply pods you've opened
+        - Not doing so will be VERY painful
 - Inventory Boxes
     - This includes Elemental ore shard, Matrix, and Weapon augmentation boxes
     - These let you choose which reward you want
@@ -95,12 +125,6 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Used to open world boss chests for better rewards
     - Save for the matrices you want (check map for boss drop)
     - You can still kill other bosses for achievements or tasks, but make sure to FORCE open the chest so you don't use the gold cipher
-- Supply Pods
-    - Black/purple or gold spherical chests that have very good rewards and XP
-    - These are one time use and do not respawn
-    - The rewards scale with your level, so don't open till level 50 which is when you can get SSR gear
-    - Once you do hit level 50, sign into [ToF map tracker](https://tower-of-fantasy-map.appsample.com) to track which supply pods you've opened
-        - Not doing so will be VERY painful
 - Personal Chef
     - Provides free resources every 6 hours
     - Use it whenever it's available, do not allow it to cap
@@ -140,6 +164,10 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Used to buy any limited SSR Matrix in limited banner for 80 Overclocking Chips
     - When the limited banner rotates to a new limited SSR matrix (once a week?) any unspent Overclocking Chips will be downgraded to Base Chips
         - This is why you should only use Spcial Voucher in batches of 80
+- Ability Training Points
+    - Used to buy gifts from the training point shop
+    - Buy Special Gifts that you can give to your weapons to unlock bonus traits
+        - Some weapons might get bonus progression if you gift them one of their favored items. Do this instead if you can
 
 Pull rates:
 
@@ -147,38 +175,17 @@ Pull rates:
 
 Tower of Fantasy Currency Guide for Genshin Players: [https://youtu.be/ss0lsfovfEs](https://youtu.be/ss0lsfovfEs)
 
-## Day-One Guide
-
-This serves as a day-one guide, but is also applicable as a checklist that you can perform every day. It should take ~2 hours to complete.
-
-1. Main story quest up to the limit, indicated by the yellow exclamation mark
-1. Side quests on the way
-1. Level 15
-1. Daily bounties
-1. Ruins
-1. Force open repeatable chests (pyramid and rectangular chests), don't spend ciphers
-1. Level 18 (level cap)
-1. Ability training (purchase special gift)
-1. Black market / Hopkin's secret box
-1. Cetus island arcade claw fox
-
 # TODO: other notes I've made that I need to organize into this guide
 
 1. Don't ADVANCE individual gear pieces unless its SSR
 1. You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
 1. Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
 1. If gear upgrade materials are limited in shop, buy it whenever it refreshes
-1. When nearby, do map completion (you can use the ToF map linked above to do this faster):
-    - Side Quests
-    - Spacerifts
-    - Onmium Towers
-    - Scenic Points
-    - World Exploration Marks
 1. Unlock food recipes via cooking (lookup recipes)
 1. Do achievements when time restricted tasks are done
 1. Don't buy blue gear, it drops from dungeons (joint operation)
 1. Don't waste SR (purple) materials on upgrading weapons below SSR (yellow)
-1. upgrade weapons above all else in this order:
+1. Upgrade weapons above all else in this order:
     - Single target dps
     - AOE dps
     - Ranged dps
