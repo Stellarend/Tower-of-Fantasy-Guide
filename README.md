@@ -56,7 +56,7 @@ When choosing a weapon, there are a few things you should take into account:
 
 ## Optimal Resource Usage
 
-As a free to play, your resources are limited, so it's important you min-max them for maximum progression. Here are the limited resources you have access to and the optimal ways to use them.
+As a free to play, your resources are limited, so it's important you min-max them for optimal progression. Here are the limited resources you have access to, and the best ways to use them.
 
 - Black Crystals
     - Usable in the shop
