@@ -171,6 +171,9 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Used to buy gifts from the training point shop
     - Buy Special Gifts that you can give to your weapons to unlock bonus traits
         - Some weapons might get bonus progression if you gift them one of their favored items. Do this instead if you can
+- Crystal Dust
+    - Used to buy items from the Crystal Dust Store
+    - Buy Booster Modules and Advancement Modules
 
 Pull rates:
 
