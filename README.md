@@ -95,6 +95,8 @@ As a free to play, your resources are limited, so it's important you min-max the
     - Black/purple or gold spherical chests that have very good rewards and XP
     - These are one time use and do not respawn
     - The rewards scale with your level, so don't open till level 50 which is when you can get SSR gear
+    - Once you do hit level 50, use the [ToF map tracker](https://tower-of-fantasy-map.appsample.com) to track which supply pods you've opened
+        - Not doing so will be VERY painful
 - Personal Chef
     - Provides free resources every 6 hours
     - Use it whenever it's available, do not allow it to cap
