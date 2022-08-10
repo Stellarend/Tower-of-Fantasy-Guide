@@ -41,7 +41,7 @@ When choosing a weapon, there are a few things you should take into account:
 
 1. Enjoyment
 
-    If you don't enjoy your weapons then you'll never want to play, so you'll never make progress. The most important thing is that you enjoy your weapon to keep you motivated to grind for progression.    
+    If you don't enjoy your weapons then you'll never want to play, so you'll never make progress. The most important thing is that you enjoy your weapon so you stay motivated to grind for progression.    
 
 1. Shatter and Charge Rate
 
