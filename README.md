@@ -2,10 +2,10 @@
 
   * [Overview](#overview)
   * [Getting Started](#getting-started)
-    + Choosing a Simulacrum/Character/Weapon
-    + Day-One Guide
+    + [Choosing a Simulacrum/Character/Weapon](#choosing-a-simulacrumcharacterweapon)
+    + [Day-One Guide](#day-one-guide)
   * [Optimal Resource Usage](#optimal-resource-usage)
-  * [Equipment / Armor](#equipment---armor)
+  * [Equipment / Armor](#equipment--armor)
   * [Relics](#relics)
   * [Cooking](#cooking)
 
