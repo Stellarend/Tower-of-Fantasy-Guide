@@ -134,7 +134,6 @@ This serves as a day-one guide, but is also applicable as a checklist that you c
 1. Force open repeatable chests (pyramid and rectangular chests), don't spend ciphers
 1. Level 18 (level cap)
 1. Ability training (purchase special gift)
-1. Weeklies
 1. Black market / Hopkin's secret box
 1. Cetus island arcade claw fox
 
