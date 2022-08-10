@@ -58,6 +58,9 @@ When choosing a weapon, there are a few things you should take into account:
 
 As a free to play, your resources are limited, so it's important you min-max them for optimal progression. Here are the limited resources you have access to, and the best ways to use them.
 
+- Potent Omnium Crystal
+    - Used to upgrade your Suppressor
+    - Upgrade your Suppressor whenever possible
 - Black Crystals
     - Usable in the shop
     - Purchase Red Nucleus
@@ -139,7 +142,8 @@ This serves as a day-one guide, but is also applicable as a checklist that you c
 
 # TODO: other notes I've made that I need to organize into this guide
 
-1. Don't upgrading individual gear pieces unless its SSR. You should, however upgrade the gear slots as it will keep the upgrades even if you upgrade your gear
+1. Don't ADVANCE individual gear pieces unless its SSR
+1. You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
 1. Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
 1. if gear upgrade materials are limited in shop, buy it whenever it refreshes in shop
 1. when nearby do:
