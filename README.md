@@ -119,6 +119,8 @@ As a free to play, your resources are limited, so it's important you min-max the
         - This is why you should only use Spcial Voucher in batches of 80
 ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 
+Tower of Fantasy Currency Guide for Genshin Players: [https://youtu.be/ss0lsfovfEs](https://youtu.be/ss0lsfovfEs)
+
 ## Day-One Guide
 
 This serves as a day-one guide, but is also applicable as a checklist that you can perform every day. It should take ~2 hours to complete.
