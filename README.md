@@ -43,6 +43,12 @@ When choosing a weapon, there are a few things you should take into account:
 
     If you don't enjoy your weapons then you'll never want to play, so you'll never make progress. The most important thing is that you enjoy your weapon to keep you motivated to grind for progression.    
 
+1. Shatter and Charge Rate
+
+    ![](https://user-images.githubusercontent.com/19635286/183938038-50da0994-7a45-4dbc-bbbd-05ce1f2de5b6.png)
+
+    Shatter is the value on the left, and Charge Rate is the value on the right. Stronger enemies will have a powerful shield that is very difficult to destroy if you don't have any weapons with high shatter (10+). As such, it's important to have atleast one weapon that can shatter enemy shields. Charge Rate affects how often you can use your discharge ability, and although it is important, it isn't as necessary as shatter. Ideally you would have atleast one weapon with high Shatter and one with high Charge Rate. Some weapons have both high Shatter and Charge Rate.
+
 1. Team Requirements
 
     If you play with other people, consider choosing weapon classes that compliment their playstyle. In most MMORPGs a team of 4 attackers might technically be the best for clearing efficiency, but unless you're a whale and have the best gear, it's likely that your party will wipe many times in harder content. Playing as a support or tank might give your party a higher chance of success.
