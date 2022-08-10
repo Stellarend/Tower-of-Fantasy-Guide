@@ -90,7 +90,7 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Red Nucleus (red orb)
     - Used to pull weapons from the limited weapon banner
     - Save and spend in batches of 120 (see Red Token)
-    - Each red pull gives you a Red Token
+    - Each pull gives you a Red Token
 - Proof of Purchase (gold chip)
     - Used to pull matrices from the permanent matrix banner
     - If the matrix you're looking for is not in the permanent banner (pool), save up these Proofs of Purchase
@@ -99,7 +99,7 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Special Voucher (red chip)
     - Used to pull matrices from the limited matrix banner
     - Save and spend in batches of 120 (see Red Token)
-    - Each red pull gives you a Red Token
+    - Each pull gives you a Red Token
 - Gold Token
     - Used to buy a duplicate SSR weapon for 120 gold tokens
     - This means you must already own the SSR weapon
@@ -107,10 +107,10 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Red Token
     - Used to buy the limited SSR weapon in limited banner for 120 red tokens
     - When the limited banner rotates to a new limited SSR weapon (once a week?) any unspent Red Tokens will be downgraded to Gold Tokens
-        - This is why you should only use Red Nucleus in batches of 120
+        - This is why you should only use Red Nucleus + Spcial Voucher in batches of 120
     - Every account can also buy 1 Matrix Box for 50 Red Tokens
         - This will allow you to choose any matrix
-            - It's recommend you spend all your Proofs of Purchase and Special Vouchers before doing this so you get one you don't already have
+            - It's recommend you spend all your Proofs of Purchase and Special Vouchers before doing this so you can get one you don't already have
 
 ![](https://user-images.githubusercontent.com/19635286/183746175-a530ffaf-1d7c-4f6f-bc82-fbac7bcc8cd5.png)
 
