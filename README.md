@@ -94,7 +94,7 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Gold Cipher
     - Used to open world boss chests for better rewards
     - Save for the matrices you want (check map for boss drop)
-    - you can still kill other bosses for achievements or tasks, but make sure to FORCE open the chest so you don't use the gold cipher
+    - You can still kill other bosses for achievements or tasks, but make sure to FORCE open the chest so you don't use the gold cipher
 - Supply Pods
     - Black/purple or gold spherical chests that have very good rewards and XP
     - These are one time use and do not respawn
@@ -167,22 +167,22 @@ This serves as a day-one guide, but is also applicable as a checklist that you c
 1. Don't ADVANCE individual gear pieces unless its SSR
 1. You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
 1. Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
-1. if gear upgrade materials are limited in shop, buy it whenever it refreshes in shop
-1. when nearby do:
-    - side quests
-    - spacerifts
-    - onmium towers
-    - scenic points
-    - world exploration marks
-1. unlock food recipes via cooking (lookup recipes)
-1. do achievements when time restricted tasks are done
-1. don't buy blue gear, it drops from dungeons (joint operation)
-1. don't waste SR (purple) materials on upgrading weapons below SSR (yellow)
+1. If gear upgrade materials are limited in shop, buy it whenever it refreshes
+1. When nearby, do map completion (you can use the ToF map linked above to do this faster):
+    - Side Quests
+    - Spacerifts
+    - Onmium Towers
+    - Scenic Points
+    - World Exploration Marks
+1. Unlock food recipes via cooking (lookup recipes)
+1. Do achievements when time restricted tasks are done
+1. Don't buy blue gear, it drops from dungeons (joint operation)
+1. Don't waste SR (purple) materials on upgrading weapons below SSR (yellow)
 1. upgrade weapons above all else in this order:
-    - single target dps
+    - Single target dps
     - AOE dps
-    - ranged dps
-    - healing
+    - Ranged dps
+    - Healing
 1. Upgrade Mind matrix first because it grants crit which is the best stat
 
 - Matrix guide: https://youtu.be/7dSX0CJQfWk
