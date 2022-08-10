@@ -6,8 +6,6 @@
   * [Optimal Resource Usage](#optimal-resource-usage)
   * [Day-One Guide](#day-one-guide)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## Overview
 
 The optimal way to progress in this game is to choose the 3 SSR weapons you want to use, research the best SSR matrices for those weapons (4 each), hoard all your resources for leveling up your 3 weapons and 12 matrices, gacha pull until you have your ideal setup. This guide will help you choose your weapons + matrices and provide time-optimal methods to get pulls and resources for making them more powerful.
