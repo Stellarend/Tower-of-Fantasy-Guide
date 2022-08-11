@@ -15,7 +15,7 @@ The optimal way to progress in this game is to choose the 2-3 SSR weapons you wa
 
 Other resources:
 - Map: [https://tower-of-fantasy-map.appsample.com](https://tower-of-fantasy-map.appsample.com/?map=default)
-- Another Map: [https://static-web.ghzs.com/cspage_pro/huanta-map.html#/][https://static-web.ghzs.com/cspage_pro/huanta-map.html#/]
+- Another Map: [https://static-web.ghzs.com/cspage_pro/huanta-map.html#/](https://static-web.ghzs.com/cspage_pro/huanta-map.html#/)
 - Database: [https://toweroffantasy.info](https://toweroffantasy.info)
 - Wiki: [https://toweroffantasy.fandom.com](https://toweroffantasy.fandom.com)
 - Subreddit: [https://www.reddit.com/r/TowerofFantasy/](https://www.reddit.com/r/TowerofFantasy/)
