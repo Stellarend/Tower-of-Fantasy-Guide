@@ -104,8 +104,8 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Supply Pods
     - Black/purple or gold spherical chests that have very good rewards and XP
     - These are one time use and do not respawn
-    - The rewards scale with your level, so don't open till level 50 which is when you can get SSR gear
-    - Once you do hit level 50, sign into [ToF map tracker](https://tower-of-fantasy-map.appsample.com) to track which supply pods you've opened
+    - The rewards scale with your level and grant massive amounts of XP, so don't open until the level cap is removed
+    - Once you are opening all of them, sign into [ToF map tracker](https://tower-of-fantasy-map.appsample.com) to track which supply pods you've opened
         - Not doing so will be VERY painful
 - Inventory Boxes
     - This includes Elemental ore shard, Matrix, and Weapon augmentation boxes
