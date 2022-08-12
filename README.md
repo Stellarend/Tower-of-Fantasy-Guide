@@ -228,4 +228,4 @@ With the full list of foods (no recipe) available in the database: [https://towe
 
 1. Coco + 4x Coco Matrix
 1. Zero + 4x Coco Matrix
-1. Samir + 4x Samir Matrix
+1. King or Meryl + 2x Shiro Matrix + 2x King Matrix
