@@ -193,7 +193,7 @@ TODO: improve this section
 - You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
 - Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
 - If gear upgrade materials are limited in shop, buy it whenever it refreshes
-- Don't buy blue gear, it drops from joint operations and you DON'T need to spend vitality / open the box to get it
+- Don't buy blue gear, it drops from joint operations (requires vitality)
 
 ## Relics
 
