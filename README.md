@@ -209,13 +209,7 @@ Early on, it's important to prioritize unlocking all the recipes rather than mak
 
 Some foods grant different bonuses like resistance to a specific element, while others grant increase stamina. Many of the most efficient recipes use honey, so it's important to destroy any hives you see and pickup the honey.
 
-Here's a few recipes lists (TODO copy all of these recipes into a markdown table):
-
-- [https://findurthing.com/tower-of-fantasy-cooking-recipe](https://findurthing.com/tower-of-fantasy-cooking-recipe)
-- [https://www.pockettactics.com/tower-of-fantasy/tower-of-fantasy-cooking](https://www.pockettactics.com/tower-of-fantasy/tower-of-fantasy-cooking)
-- [https://zilliongamer.com/tower-of-fantasy/c/guides/tower-of-fantasy-food-recipes-resource-and-effect](https://www.pockettactics.com/tower-of-fantasy/tower-of-fantasy-cooking)
-
-With the full list of foods (no recipe) available in the database: [https://toweroffantasy.info/food](https://toweroffantasy.info/food)
+All recipes are available on the database: [https://toweroffantasy.info/food](https://toweroffantasy.info/food)
 
 # TODO: other notes I've made that I need to organize into this guide
 
