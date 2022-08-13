@@ -209,7 +209,7 @@ Early on, it's important to prioritize unlocking all the recipes rather than mak
 
 Some foods grant different bonuses like resistance to a specific element, while others grant increase stamina. Many of the most efficient recipes use honey, so it's important to destroy any hives you see and pickup the honey.
 
-To get the chance of making food to 100%, you need to put a total of 15 ingredients. You should fill the rest of the recipe with ingredient you have the most of. Because of this, you should start with the recipes that contain ingredients you can buy from the food vendors (Astra, Banges Dock) as you can get 100 at a time for very cheap which makes them great as filler ingredients for your recipes.
+To get the chance of making food to 100%, you need to put a total of 15 ingredients. You should fill the rest of the recipe with ingredient you have the most of. Because of this, you should start with the recipes that contain ingredients you can buy from the food vendors (Astra beside Ruin A-01, Banges Dock) as you can get 100 at a time for very cheap which makes them great as filler ingredients for your recipes.
 
 All recipes are available on the database: [https://toweroffantasy.info/food](https://toweroffantasy.info/food)
 
