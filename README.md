@@ -197,7 +197,7 @@ TODO: improve this section
 
 Set milestone bonus:
 
-![image](https://user-images.githubusercontent.com/19635286/184501879-fdb40896-b291-48f6-91dd-06df49fcdc48.png)
+![image](https://user-images.githubusercontent.com/19635286/184501953-a394c279-6fad-46e4-8c35-9b973b7d2639.png)
 
 ## Relics
 
