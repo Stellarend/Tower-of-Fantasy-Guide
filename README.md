@@ -191,9 +191,13 @@ TODO: improve this section
 
 - Do NOT ADVANCE individual equipment pieces unless its SSR
 - You should, however ENHANCE the gear slots as it will keep the upgrades even if you change your gear
-- Upgrade your gear in increments of 5 to get milestone bonuses, starting with gloves and boots
+- Upgrade all your gear in increments of 5 to get set milestone bonuses, starting with gloves and boots
 - If gear upgrade materials are limited in shop, buy it whenever it refreshes
 - Don't buy blue gear, it drops from joint operations (requires vitality)
+
+Set milestone bonus:
+
+![image](https://user-images.githubusercontent.com/19635286/184501879-fdb40896-b291-48f6-91dd-06df49fcdc48.png)
 
 ## Relics
 
