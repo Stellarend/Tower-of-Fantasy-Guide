@@ -121,7 +121,8 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Vitality / Energy
     - Used for Adventure Select and refreshes slowly overtime
     - Do not allow it to cap, always make sure it's under 100 at the end of a play session
-    - Do Interstellar Exploration (or Dimension Trials) as it has the best rewards till level 50
+    - Do Interstellar Exploration as it has the best rewards till level 50
+        - Do Dimension Trial instead if you don't have a party to play with, as Interstellar Exploration doesn't have match making
     - Once level 50, do Joint Operations 06, SSR gear only starts dropping then
 - Blue and Purple Cipher
     - Used to open respawnable chests (pyramid and rectangular chests) for better rewards
