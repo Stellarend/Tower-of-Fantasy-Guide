@@ -228,4 +228,4 @@ All recipes are available on the database: [https://toweroffantasy.info/food](ht
 
 1. Coco + 4x Coco Matrix
 1. Zero + 4x Coco Matrix
-1. King or Meryl + 2x Shiro Matrix + 2x King Matrix
+1. King or Meryl or Shiro + 2x Shiro Matrix + 2x King Matrix
