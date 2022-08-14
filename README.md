@@ -121,8 +121,7 @@ As a free to play, your resources are limited, so it's important you min-max the
 - Vitality / Energy
     - Used for Adventure Select and refreshes slowly overtime
     - Do not allow it to cap, always make sure it's under 100 at the end of a play session
-    - Do Dimension Trials (level up weapons and matrices) and Interstellar Exploration (breakthrough weapons and matrices) as it has the best rewards till level 50
-        - Breakthrough happens less for F2P, so Dimension Trial is better in most cases
+    - Do Interstellar Exploration (or Dimension Trials) as it has the best rewards till level 50
     - Once level 50, do Joint Operations 06, SSR gear only starts dropping then
 - Blue and Purple Cipher
     - Used to open respawnable chests (pyramid and rectangular chests) for better rewards
